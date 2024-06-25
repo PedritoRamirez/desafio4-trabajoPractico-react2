@@ -1,0 +1,56 @@
+.imgMap{
+  width: 300px;
+}
+.imgMap2{
+  width: 400px;
+}
+.titulo{
+  background-color:aqua ;
+  display: flex;
+  justify-content: space-around;
+}
+.tituloPrin{
+  size: 40px;
+}
+.textdeco{
+ text-decoration: none;
+}
+.card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 304px;
+  border: 2px solid black;
+}
+.card2{
+  display: flex;
+  justify-content: space-between;
+  width: 904px;
+  height: 380px;
+  border: 2px solid red;
+}
+.contDesPrBu{
+  display: flex;
+  flex-direction: column;
+}
+.contNomIng{
+  display: flex;
+  flex-direction: column;
+}
+.ingrede{
+  display: flex;
+  flex-direction: column;
+}
+.contCard{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 60px;
+  margin-top: 20px;
+}
+.foter{
+  text-align: center;
+  margin-top: 35px;
+  background-color: rgb(168, 168, 232);
+  color: azure;
+}
